@@ -10,7 +10,7 @@ Sorry I am hungry I wanna eat
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-I will go home at 5pm
+I will go home at 5pm.
 ```{r}
 summary(cars)
 ```
