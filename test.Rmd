@@ -1,6 +1,6 @@
 ---
 title: "test"
-author: "Gayoung"
+author: "Gayoung and Lauryl"
 date: "Wednesday, April 01, 2015"
 output: html_document
 ---
@@ -11,7 +11,7 @@ Sorry I am hungry I wanna eat
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
 I will go home at 5pm.
-Lauryl let's go to have a beer
+Lauryl let's go to have a beer. You never wanna have a beer with me.
 ```{r}
 summary(cars)
 ```
