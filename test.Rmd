@@ -1,6 +1,6 @@
 ---
 title: "test"
-author: "Gayoung and Lauryl"
+author: "Gayoung Lauryl, and Liying"
 date: "Wednesday, April 01, 2015"
 output: html_document
 ---
@@ -16,7 +16,7 @@ Lauryl let's go to have a beer. You never wanna have a beer with me.
 summary(cars)
 ```
 
-You can also embed plots, for example:
+I finally make it...I upgrade my operating system and it works!
 
 ```{r, echo=FALSE}
 plot(cars)
